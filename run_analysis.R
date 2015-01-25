@@ -136,6 +136,6 @@ run_analysis <- function () {
         
         ##Summarize data by subject and activity
         tidied <- ddply(newDataset, .(subject, activity), numcolwise(mean))
-        write.csv(tidied, "myTidyDataset.csv")
+        write.csv(tidied, "myTidyDataset.csv", row.names=FALSE)
         
 }
