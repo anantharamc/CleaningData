@@ -37,11 +37,8 @@ Step 1:
 * Read Training dataset and test dataset and cobine them with rbind
 
 Step 2:
-* Read features and remove characters such as (, ), hyphen, comma, and other duplicate data
-** Note: removing paranthesis with \\(\\)
-** Using gsub to replace strings
-* Select only features with mean or std and drop all other columns
-** Use of grep to accomplish finding columns
+* Read features and remove characters such as (, ), hyphen, comma, and other duplicate data. Note: removed paranthesis with \\(\\), Using gsub to replace strings
+* Select only features with mean or std and drop all other columns. Used of grep to accomplish finding columns
 
 Step 3:
 * Read Subject training set and test set, cbind the subjects to the main dataset
@@ -53,7 +50,6 @@ Step 4:
 * Change column names to be more readable
 
 Step 5:
-* Summarize data by subject and activity
-** used ddply to make a tidy dataset
+* Summarize data by subject and activity, used ddply to make a tidy dataset
 
 
