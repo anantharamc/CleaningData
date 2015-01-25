@@ -3,7 +3,7 @@ Data Cleaning Project
 ==============================================================================
 The original data set was taken from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones . Using instructions from Coursera Project, the dataset has been modified.
 
-### The modified dataset includes the following files:
+### The project submission includes the following files:
 
 - 'README.MD'
 - 'ProjectCodeBook.pdf'
