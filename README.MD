@@ -1,5 +1,5 @@
 
-Human Activity Recognition Using Smartphones Dataset - Modified by anantharamc
+Data Cleaning Project
 ==============================================================================
 The original data set was taken from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones . Using instructions from Coursera Project, the dataset has been modified.
 
