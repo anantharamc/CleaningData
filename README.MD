@@ -6,7 +6,7 @@ The original data set was taken from http://archive.ics.uci.edu/ml/datasets/Huma
 ### The modified dataset includes the following files:
 
 - 'README.MD'
-- 'ProjectCodeBook.MD'
+- 'ProjectCodeBook.pdf'
 - 'run_analysis.R'
 
 The output file MyTidyDataset.txt has been uploaded to Coursera Project submission site.
@@ -22,7 +22,7 @@ The resulting file structure will be as shown below.
 <Working directory>
 	run_analysis.R
 	README.MD
-	ProjectCodeBook.MD
+	ProjectCodeBook.pdf
 	UCI
 		test folder and its content
 		train folder and its contents
