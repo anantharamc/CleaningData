@@ -20,16 +20,27 @@ The output file MyTidyDataset.txt has been uploaded to Coursera Project submissi
 The resulting file structure will be as shown below.
 
 Working directory
-    | run_analysis.R   
-    | README.MD
-    | ProjectCodeBook.pdf
-    | UCI
-        | test folder and its content
-        | train folder and its contents
-        | activity_labels.txt
-        | features.txt
-        | features_info.txt
-        | README.txt
+
+--run_analysis.R   
+
+--README.MD
+
+--ProjectCodeBook.pdf
+
+--UCI
+  
+-------test folder and its content
+
+-------train folder and its contents
+
+-------activity_labels.txt
+
+-------features.txt
+
+-------features_info.txt
+
+-------README.txt
+
 		
 ### Description of modifications
 
